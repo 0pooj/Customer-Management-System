@@ -19,7 +19,7 @@ This is a simple project developed using Python for basic customer data manageme
 
 2.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/0pooj/Customer-Management-System.git](https://github.com/0pooj/Customer-Management-System.git)
+    git clone https://github.com/0pooj/Customer-Management-System.git
     cd Customer-Management-System
     ```
 
